@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Barajas</h1>
-<h3 align="center">A passionate data scientist and backend developer from Mexico</h3>
+<h3 align="center">A passionate data science enthusiast and backend developer from Mexico</h3>
 
 - 🔭 I’m studying **Applied Mathematics and Software Engineering**
 
